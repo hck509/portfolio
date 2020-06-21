@@ -64,7 +64,7 @@ Unreal Engine 4
 https://youtu.be/DNXrWxcCd8k
 
 ## Motor Town (2020) ##
-2 Weeks hooby project.
+2 Weeks hobby project.
 
 Simple driving game with Unreal Engine4
 
