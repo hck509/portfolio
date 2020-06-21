@@ -8,9 +8,9 @@ Solo development with 1 part-time remote artist.
 Tech Stack
 * OpenGL, DX9, DX11
 * Physics engine
-** Multithreaded
-** Double precision
-** Penalty-based
+  * Multithreaded
+  * Double precision
+  * Penalty-based
 * TCP and UDP Network multiplay
 * Editor
 * Streaming Heightmap
@@ -22,3 +22,8 @@ Features
 * Replay
 
 ### Early development stage images ###
+
+![GitHub Logo](/images/rco_001.gif)
+![GitHub Logo](/images/rco_002.gif)
+![GitHub Logo](/images/rco_003.gif)
+![GitHub Logo](/images/rco_click.gif)
