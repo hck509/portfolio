@@ -70,7 +70,7 @@ Simple driving game with Unreal Engine4
 
 UE4.25 with Chaos Physics.
 
-Custom Vehicle physcis (Tire, Engine, Transmission)
+Custom Vehicle physics (Tire, Engine, Transmission)
 
 ![GitHub Logo](/images/motortown.png)
 ### Movie Clips ###
